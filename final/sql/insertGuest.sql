@@ -1,0 +1,2 @@
+INSERT INTO final_guest (guest_firstname, guest_lastname, guest_email, guest_phone, guest_zip, guest_card)
+VALUES(:guest_firstname, :guest_lastname, :guest_email, :guest_phone, :guest_zip, :guest_card);
